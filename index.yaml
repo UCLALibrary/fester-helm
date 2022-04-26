@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fester:
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2022-04-26T17:38:46.415894406Z"
+    description: A Helm chart for Kubernetes
+    digest: 326f843fdb5b0fabb6a5b195e1ce63cf58cf9a5b85fb0613c1137b4cb3d42256
+    name: fester
+    type: application
+    urls:
+    - https://github.com/UCLALibrary/fester-helm/releases/download/fester-1.1.0/fester-1.1.0.tgz
+    version: 1.1.0
+generated: "2022-04-26T17:38:46.415900306Z"
